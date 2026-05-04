@@ -8,5 +8,5 @@ function removeAllStringFromAString(str) {
      console.log(result)
 }
 
-removeAllStringFromAString("h e l l o")
+removeAllStringFromAString("h e    l l o")
 
