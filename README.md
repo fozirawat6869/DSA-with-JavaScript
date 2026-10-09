@@ -50,4 +50,4 @@ The goal of this repository is to practice Data Structures and Algorithms using 
 
 ## Author
 
-Mayur Rawat**
+Mayur Rawat
