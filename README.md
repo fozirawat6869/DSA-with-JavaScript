@@ -46,7 +46,7 @@ DSA-with-JavaScript/
 
 ## Goal
 
-The goal of this repository is to practice Data Structures and Algorithms using JavaScript and improve problem-solving skills.
+The goal of this repository is to practice Data Structures and Algorithms (DSA) using JavaScript and improve problem-solving skills.
 
 ## Author
 
